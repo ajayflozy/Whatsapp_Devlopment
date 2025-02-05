@@ -13,3 +13,7 @@ XXXXXXXXXX
 Booking code:
 
 XXXXXXXXXX
+
+Custom Domain File
+
+XXXXXXXXXX
